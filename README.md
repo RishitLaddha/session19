@@ -1,3 +1,9 @@
+[![Python Tests](https://github.com/RishitLaddha/session19/actions/workflows/test.yml/badge.svg)](https://github.com/RishitLaddha/session19/actions/workflows/test.yml)
+
+<img width="1225" alt="Screenshot 2025-02-18 at 23 08 39" src="https://github.com/user-attachments/assets/e5692a7e-e0ce-475e-bc20-d99f92d39d03" />
+
+
+
 # SmartDevice Project – Code Walkthrough and Functionality
 
 The SmartDevice project is built around a single class, `SmartDevice`, which encapsulates the behavior and attributes of a modern smart device. The goal is to simulate various real-world functionalities such as tracking the device's online state, maintaining a dynamic status dictionary for features like battery level and temperature, and providing formatted device information on demand. This project leverages key object-oriented programming (OOP) principles in Python including encapsulation, dynamic attribute management, and callable objects.
